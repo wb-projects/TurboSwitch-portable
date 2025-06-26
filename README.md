@@ -13,3 +13,6 @@ Right-clicking the button opens the application menu, where you can assign a hot
 In the same menu, you can also choose whether the button should always remain visible.
 
 To reposition the button on the screen, simply drag it by its border with the mouse.
+
+
+This application runs on any version of Windows and works with both Intel and AMD CPUs.
