@@ -15,4 +15,5 @@ In the same menu, you can also choose whether the button should always remain vi
 To reposition the button on the screen, simply drag it by its border with the mouse.
 
 
+
 This application is free to use and runs on any version of Windows, supporting both Intel and AMD CPUs.
